@@ -2,6 +2,6 @@
 
 ```groovy
 dependencies 
-  compile 'com.github.theostanton:tx:v0.1'
+  compile 'com.github.theostanton:tx:0.1'
 }
 ```
